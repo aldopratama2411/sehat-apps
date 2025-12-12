@@ -1,8 +1,8 @@
  # 🏥 Sehat Apps 
 
-| Flutter | Firebase |
+| Flutter | Supabase |
 |---------|----------|
-| [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev) | [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com) |
+| [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev) | [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com) |
 
 
 Sehat Apps adalah aplikasi kesehatan yang membantu pengguna memahami kondisi tubuh dan kebutuhan nutrisi harian dengan lebih mudah dan akurat. Aplikasi ini dilengkapi fitur perhitungan BMI (Body Mass Index) untuk mengetahui kategori berat badan, serta fitur perhitungan kalori harian berdasarkan aktivitas dan kebutuhan tubuh pengguna. Selain itu, Sehat Apps menyediakan informasi mengenai kalori pada makanan dan minuman, sehingga pengguna dapat memantau asupan harian dengan lebih terarah. Setiap data yang dicatat akan disajikan secara sederhana dan informatif, membantu pengguna menjaga pola hidup sehat dan mengatur gaya hidup secara lebih efektif.
@@ -46,7 +46,7 @@ flutter pub get
 flutter run
 ```
 > ⚠️ **Noted**  
-> Pastikan Anda telah menginstall **Node.js** dan melakukan **Firebase setup** agar file **firebase_options.dart** dapat dibuat melalui perintah konfigurasi Firebase.
+> Pastikan Anda telah menginstall **Node.js** dan melakukan **Supabase setup** agar file konfigurasi yang diperlukan dapat dibuat melalui perintah inisialisasi Supabase.
 
 
 
