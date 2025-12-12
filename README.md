@@ -26,7 +26,7 @@ Sehat Apps adalah aplikasi kesehatan yang membantu pengguna memahami kondisi tub
 | ![](assets/readme/kalori.png) | ![](assets/readme/makanan.png) |
 
 | INPUT INFO |
-|---------|------|
+|---------|
 | ![](assets/readme/input.png) | 
 
 
